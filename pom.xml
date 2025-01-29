@@ -6,8 +6,8 @@
   <packaging>pom</packaging>
   <modules>
     <module>presentation</module>
-    <module>business</module>
     <module>persistence</module>
+    <module>business</module>
   </modules>
   <properties>
     <java.version>21</java.version>
